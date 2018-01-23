@@ -1,7 +1,7 @@
 import Rebase from 're-base';
 
 const base = Rebase.createClass({
-  /*REVOKED*/
+  /* removed */
 });
 
 export default base;
